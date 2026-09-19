@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>服务器宣传</title><link>https://k2alzhang.github.io/mcserver-xuanchuan.github.io</link><description>让更多优质服务器能够被看见</description><copyright>服务器宣传</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://k2alzhang.github.io/mcserver-xuanchuan.github.io</link></image><lastBuildDate>Fri, 18 Sep 2026 19:18:04 +0000</lastBuildDate><managingEditor>服务器宣传</managingEditor><ttl>60</ttl><webMaster>服务器宣传</webMaster><item><title>关于服务器宣传</title><link>https://k2alzhang.github.io/mcserver-xuanchuan.github.io/post/guan-yu-fu-wu-qi-xuan-chuan.html</link><description>## 宣传说明
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>服务器宣传</title><link>https://k2alzhang.github.io/mcserver-xuanchuan.github.io</link><description>让更多优质服务器能够被看见</description><copyright>服务器宣传</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://k2alzhang.github.io/mcserver-xuanchuan.github.io</link></image><lastBuildDate>Sat, 19 Sep 2026 11:06:10 +0000</lastBuildDate><managingEditor>服务器宣传</managingEditor><ttl>60</ttl><webMaster>服务器宣传</webMaster><item><title>关于服务器宣传</title><link>https://k2alzhang.github.io/mcserver-xuanchuan.github.io/post/guan-yu-fu-wu-qi-xuan-chuan.html</link><description>## 宣传说明
 我因为是学生，所以更新不定期
 什么服务器都可以宣传，只要不违法
+博客主要以mc服务器宣传为主
+分类标签已经打好，按照服务器类型选择，支持其他游戏服务器宣传
 
 ## 相关问题
 - 需要付费么
@@ -16,4 +18,4 @@
   - 会markdown的可以直接访问 https://github.com/k2alzhang/mcserver-xuanchuan.github.io/issues 创建个issue直接开写，不会的直接加QQ群1019114702，@群主直接帮忙写就行，但群主不能保证24小时在线，你也可以找其他群员替你写
  
 ## 注意事项
-写issue的时候，一定一定要给Labels加上，标签选择服务器宣传即可。</description><guid isPermaLink="true">https://k2alzhang.github.io/mcserver-xuanchuan.github.io/post/guan-yu-fu-wu-qi-xuan-chuan.html</guid><pubDate>Fri, 18 Sep 2026 18:55:21 +0000</pubDate></item></channel></rss>
+写issue的时候，一定一定要给Labels加上，标签按照你的服务器类型选择（不要瞎选）即可。</description><guid isPermaLink="true">https://k2alzhang.github.io/mcserver-xuanchuan.github.io/post/guan-yu-fu-wu-qi-xuan-chuan.html</guid><pubDate>Fri, 18 Sep 2026 18:55:21 +0000</pubDate></item></channel></rss>
